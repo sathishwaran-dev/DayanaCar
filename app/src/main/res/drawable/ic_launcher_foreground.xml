@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Bold White "D" Letterform -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,24 L54,24 C68,24 78,33 78,54 C78,75 68,84 54,84 L30,84 Z M42,35 L42,73 L54,73 C62,73 68,66 68,54 C68,42 62,35 54,35 Z" />
+
+    <!-- Green Sporty Car Silhouette overlay inside the center of "D" -->
+    <!-- Car Body -->
+    <path
+        android:fillColor="#1E6B38"
+        android:pathData="M34,54 C36,48 40,45 47,45 L61,45 C68,45 72,48 74,54 L76,58 C77,59 78,60 78,62 L78,66 C78,67 77,68 76,68 L75,68 C74,68 73,67 73,66 L73,65 L35,65 L35,66 C35,67 34,68 33,68 L32,68 C31,68 30,67 30,66 L30,62 C30,60 31,59 32,58 Z" />
+
+    <!-- Car Windshield Cutout (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M41,53 L44,48 L64,48 L67,53 Z" />
+
+    <!-- Left & Right Headlights (Light Tint) -->
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M33,60 L38,60 L38,62 L33,62 Z" />
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M70,60 L75,60 L75,62 L70,62 Z" />
+
+    <!-- Front Grille Line (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,61 L64,61 L64,63 L44,63 Z" />
+
+</vector>
